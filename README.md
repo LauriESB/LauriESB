@@ -39,8 +39,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=c,cs)](https://skillicons.dev)
 ###
-
-<br><br>
+<br>
 <!-- contact into -->
 <h2 align="center">🌐 How to contact me 🌐</h2>
 <div align="center">
