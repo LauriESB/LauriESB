@@ -15,21 +15,17 @@
 
 <!-- total commits -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lauriesb&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=discord_old_blurple&locale=en&hide_border=false&rank_icon=github" height="200" alt="stats graph"  />
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lauriesb&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="200" alt="languages graph"  /> -->
+  <img width="450" src="https://github-readme-stats.vercel.app/api?username=LauriESB&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github&theme=discord_old_blurple" />
+  <!--<img width="473" src="https://github-readme-stats.vercel.app/api/top-langs?username=lauriesb&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=discord_old_blurple&hide_border=false" height="200" 
+  alt="languages graph" />-->
 </div><br><br>
 
-<!-- p.languages -->
-<!--
-#### Main Stack:
-[![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
--->
-  
-<h2>Studying in this moment: </h2> 
+
+<h2> Studying in this moment: </h2> 
 
 [![Study](https://skillicons.dev/icons?i=java)](https://skillicons.dev) <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
 
-<h2>Workstation Tools: </h2> 
+<h2> Workstation Tools: </h2> 
 
 [![Tools](https://skillicons.dev/icons?i=linux,vscode)](https://skillicons.dev)
 <img src="https://netbeans.apache.org/images/apache-netbeans.svg" alt="NetBeans Logo" width="42" height="auto">
@@ -38,14 +34,15 @@
 <h2>I've also worked with: </h2> 
 
 [![My Skills](https://skillicons.dev/icons?i=c,cs)](https://skillicons.dev)
+
 ###
 <br>
 <!-- contact into -->
 <h2 align="center">🌐 How to contact me 🌐</h2>
 <div align="center">
-  <a href="https://www.linkedin.com/in/laurisantinelli/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>
-  <a href = "mailto:ich.lauri@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://stackoverflow.com/users/22364605/"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a> 
+  <a href="https://www.linkedin.com/in/laurisantinelli/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
+  <a href = "mailto:ich.lauri@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" /></a>
+  <a href="https://stackoverflow.com/users/22364605/" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank"/></a> 
 </div>
 
 ###
