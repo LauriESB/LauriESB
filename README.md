@@ -15,7 +15,7 @@
 
 <!-- total commits -->
 <div align="center">
-  <img width="450" src="https://github-readme-stats.vercel.app/api?username=LauriESB&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github&theme=discord_old_blurple" />
+  <img width="450" src="https://github-readme-stats.vercel.app/api?username=LauriESB&hide_border=false&count_private=true&rank_icon=github&theme=discord_old_blurple" />
   <!--<img width="473" src="https://github-readme-stats.vercel.app/api/top-langs?username=lauriesb&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=discord_old_blurple&hide_border=false" height="200" 
   alt="languages graph" />-->
 </div><br><br>
