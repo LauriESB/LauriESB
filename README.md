@@ -32,9 +32,10 @@
 <!-- <img src="https://netbeans.apache.org/images/apache-netbeans.svg" alt="NetBeans Logo" width="42" height="auto"> -->
 [![Tools](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
 
-<h2>I've also worked with: </h2> 
 
-[![My Skills](https://skillicons.dev/icons?i=c,cs)](https://skillicons.dev)
+<!--<h2>I've also worked with: </h2> 
+
+[![My Skills](https://skillicons.dev/icons?i=c,cs)](https://skillicons.dev)-->
 
 ###
 <br>
