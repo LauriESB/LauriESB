@@ -27,10 +27,15 @@
 
 ## Studying in this moment:
 
+<br>
+
 [![Study](https://skillicons.dev/icons?i=java)](https://skillicons.dev) <img style="z-index:1;"  src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
 [![Study](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
 [![Study](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
+
 <h2> Workstation Tools: </h2> 
+
+<br>
 
 [![Tools](https://skillicons.dev/icons?i=linux,vscode)](https://skillicons.dev)
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" alt="NetBeans Logo" width="42" height="auto"> 
@@ -41,6 +46,9 @@
 <br>
 <!-- contact into -->
 <h2 align="center">💌 How to contact me 💌</h2>
+
+<br>
+
 <div align="center">
   <a href="https://www.linkedin.com/in/laurisantinelli/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href = "mailto:ich.lauri@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" /></a>
