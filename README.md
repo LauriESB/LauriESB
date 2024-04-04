@@ -17,8 +17,8 @@
 <div align="center">
    
   [![GitHub stats](https://github-readme-stats.vercel.app/api?username=LauriESB&hide_border=false&count_private=true&show_icons=true&theme=discord_old_blurple&rank_icon=github)](https://github.com/LauriESB)
-  <!--<img width="473" src="https://github-readme-stats.vercel.app/api/top-langs?username=lauriesb&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=discord_old_blurple&hide_border=false" height="200" 
-  alt="languages graph" />-->
+  <img width="473" src="https://github-readme-stats.vercel.app/api/top-langs?username=lauriesb&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=discord_old_blurple&hide_border=false" height="200" 
+  alt="languages graph" />
 </div><br><br>
 
 ## Studying in this moment:
@@ -36,7 +36,7 @@
 ###
 <br>
 <!-- contact into -->
-<h2 align="center">🌐 How to contact me 🌐</h2>
+<h2 align="center">💌 How to contact me 💌</h2>
 <div align="center">
   <a href="https://www.linkedin.com/in/laurisantinelli/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href = "mailto:ich.lauri@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" /></a>
