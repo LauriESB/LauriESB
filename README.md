@@ -23,7 +23,7 @@
 
 ## Studying in this moment:
 
-[![Study](https://skillicons.dev/icons?i=java)](https://skillicons.dev) <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
+[![Study](https://skillicons.dev/icons?i=java)](https://skillicons.dev) <img style="z-index:1;"  src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
 [![Study](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
 [![Study](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
 <h2> Workstation Tools: </h2> 
