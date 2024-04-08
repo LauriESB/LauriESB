@@ -33,7 +33,7 @@
 [![Study](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
 [![Study](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
 
-<h2> Workstation Tools: </h2> 
+<h2 style="width: 50%;"> Workstation Tools: </h2> 
 
 <br>
 
