@@ -46,7 +46,7 @@
 <br>
 <!-- contact into -->
 
-<h2 align="center">🐱‍👤 How to reach out to me 🐱‍👤</h2>
+<h2 align="center">🐱‍👤 reach out to me 🐱‍👤</h2>
 
 <br>
 
