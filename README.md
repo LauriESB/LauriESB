@@ -26,7 +26,7 @@
 <br><br>
 
 ## Studying in this moment:
-<br>
+
 <img style="z-index:1;"  src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
 
 [![Study](https://skillicons.dev/icons?i=java)](https://skillicons.dev) 
