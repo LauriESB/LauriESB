@@ -6,7 +6,7 @@
 <!-- introduction -->
 <div>
   <h2 align="center">Brazilian Java Backend Developer<img width=35 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java logo"/> </h2> 
-  <p style="text-align:center;">Hey there! 👋 I'm Lauri, a Brazilian student of Systems Analysis and Development at Sorocaba Technology College (FATEC-SO). Currently, I'm on a journey to become a java backend developer </p>
+  <p style="text-align:center;">Hey there! 🧛‍♀️ I'm Lauri, a Brazilian student of Systems Analysis and Development at Sorocaba Technology College (FATEC-SO). Currently, I'm on a journey to become a java backend developer </p>
 
   <p style="text-align: center;">If you're interested in tracking my progress and exploring the projects I'm working on, feel free to check out my GitHub repositories. I'm always open to feedback, collaboration, and learning from the 
   community 💻</p>
@@ -46,14 +46,14 @@
 <br>
 <!-- contact into -->
 
-<h2 align="center">💌 How to contact me 💌</h2>
+<h2 align="center">🐱‍👤 How to reach out to me 🐱‍👤</h2>
 
 <br>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/laurisantinelli/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href = "mailto:ich.lauri@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" /></a>
-  <a href="https://stackoverflow.com/users/22364605/"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a> 
+  <!--<a href="https://stackoverflow.com/users/22364605/"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>  --> 
 </div>
 
 ###
