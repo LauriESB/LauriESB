@@ -15,8 +15,8 @@
 
 <!-- total commits -->
  <div width="1000" align="center">
-  <img width=450 src="https://github-readme-stats.vercel.app/api?username=LauriESB&theme=discord_old_blurple&count_private=true&show_icons=true&rank_icon=github&border_radius=10" alt="readme stats" />
-   <img width="340" src="https://github-readme-stats.vercel.app/api/top-langs?username=LauriESB&locale=en&hide_title=false&layout=compact&card_width=300&langs_count=5&theme=discord_old_blurple&hide_border=false"
+  <img width=400 src="https://github-readme-stats.vercel.app/api?username=LauriESB&theme=discord_old_blurple&count_private=true&show_icons=true&rank_icon=github&border_radius=10" alt="readme stats" />
+   <img width="355" src="https://github-readme-stats.vercel.app/api/top-langs?username=LauriESB&locale=en&hide_title=false&layout=compact&card_width=300&langs_count=5&theme=discord_old_blurple&hide_border=false"
   alt="languages graph" />
     
 </div>
@@ -30,9 +30,9 @@
 <img style="z-index:1;"  src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
 
 [![Study](https://skillicons.dev/icons?i=java)](https://skillicons.dev) 
-[![Study](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
+<!-- [![Study](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
 [![Study](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
-
+-->
 
 <h3> Workstation Tools: </h3> 
 
