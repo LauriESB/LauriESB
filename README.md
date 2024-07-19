@@ -6,8 +6,9 @@
 <!-- introduction -->
 <div>
   <h2 align="center">Brazilian Java Backend Developer<img width=35 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java logo"/> </h2> 
-  <p align="center">hey there! 🧛🏻‍♀️ I'm currently on a journey to become a java backend developer </p>
-  <p style="text-align: center;">if you're interested in tracking my progress and exploring the projects I'm working on, feel free to check out my GitHub repositories. always open to community feedback and interation💻</p>
+  <p style="text-align:center;">Hey there! 🧛🏻‍♀️ I'm currently on a journey to become a java backend developer </p>
+
+  <p style="text-align: center;">If you're interested in tracking my progress and exploring the projects I'm working on, feel free to check out my GitHub repositories. I'm always open to community feedback and interation💻</p>
 </div><br>
 
 
@@ -44,7 +45,7 @@
 <br>
 <!-- contact into -->
 
-<h2 align="center">🐱‍👤 reach out to me 🐱‍👤</h2>
+<h2 align="center"><img src="https://em-content.zobj.net/source/microsoft/309/ninja-cat_1f431-200d-1f464.png" alt="NetBeans Logo" width="30" height="auto">reach out to me <img src="https://em-content.zobj.net/source/microsoft/309/ninja-cat_1f431-200d-1f464.png" alt="NetBeans Logo" width="30" height="auto"> </h2>
 
 <br>
 
