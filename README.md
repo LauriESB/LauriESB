@@ -6,7 +6,7 @@
 <!-- introduction -->
 <div>
   <h2 align="center">Brazilian Java Backend Developer<img width=35 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java logo"/> </h2> 
-  <p style="text-align:center;">Hey there! 🧛🏻‍♀️ I'm currently on a journey to become a java backend developer </p>
+  <p align="center">Hey there! 🧛🏻‍♀️ I'm currently on a journey to become a java backend developer </p>
 
   <p style="text-align: center;">If you're interested in tracking my progress and exploring the projects I'm working on, feel free to check out my GitHub repositories. I'm always open to community feedback and interation💻</p>
 </div><br>
