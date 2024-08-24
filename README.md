@@ -1,6 +1,6 @@
 <!-- welcome -->
 <h1 align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Creepster&size=60&duration=1000&pause=1000&color=637EC7&center=true&vCenter=true&width=800&lines=Hey!;This+is+my+GitHub+account!" />
+   <img src="https://readme-typing-svg.demolab.com?font=Creepster&size=60&duration=1000&pause=1000&color=637EC7&center=true&vCenter=true&width=800&lines=Hey!;This+is+my+GitHub+account!" />      
 </h1>
 
 <!-- introduction -->
@@ -10,7 +10,7 @@
 
   <p style="text-align: center;">if you're interested in tracking my progress and exploring the projects I'm working on, feel free to check out my GitHub repositories. always open to community feedback and interaction💻</p>
 </div><br>
-
+  
 
 <!-- total commits -->
  <div width="1000" align="center">
@@ -37,10 +37,8 @@
 
 <br>
 
-[![Tools](https://skillicons.dev/icons?i=linux,vscode)](https://skillicons.dev)
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" alt="NetBeans Logo" width="42" height="auto"> 
-[![Tools](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
-
+[![Tools](https://skillicons.dev/icons?i=linux,vscode,idea,git,github)](https://skillicons.dev)
+<!-- <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" alt="NetBeans Logo" width="42" height="auto"> -->
 
 <br>
 <!-- contact into -->
