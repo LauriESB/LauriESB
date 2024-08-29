@@ -9,20 +9,19 @@
   <p align="center">hey there! 🧛🏻‍♀️ I'm currently on a journey to become a java backend developer </p>
 
   <p style="text-align: center;">if you're interested in tracking my progress and exploring the projects I'm working on, feel free to check out my GitHub repositories. always open to community feedback and interaction💻</p>
-</div><br>
+</div>
   
 
 <!-- total commits -->
+<!-- 
  <div width="1000" align="center">
   <img width=400 src="https://github-readme-stats.vercel.app/api?username=LauriESB&theme=discord_old_blurple&count_private=true&show_icons=true&rank_icon=github&border_radius=10" alt="readme stats" />
    <img width="355" src="https://github-readme-stats.vercel.app/api/top-langs?username=LauriESB&locale=en&hide_title=false&layout=compact&card_width=300&langs_count=5&theme=discord_old_blurple&hide_border=false"
   alt="languages graph" />
     
 </div>
-
-
-
-<br><br>
+-->
+<br>
 
 ## Studying in this moment:
 
