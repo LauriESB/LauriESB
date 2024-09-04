@@ -34,9 +34,13 @@
 
 <h3> Workstation Tools: </h3> 
 
-<br>
+[![Tools](https://skillicons.dev/icons?i=linux,vscode,idea,git,github,postgresql)](https://skillicons.dev)
 
-[![Tools](https://skillicons.dev/icons?i=linux,vscode,idea,git,github)](https://skillicons.dev)
+<!-- >
+
+[![Study](https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png)](https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png) 
+-->
+
 <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" alt="NetBeans Logo" width="42" height="auto"> -->
 
 <br>
