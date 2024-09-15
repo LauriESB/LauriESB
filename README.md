@@ -27,33 +27,32 @@
 
 <img style="z-index:1;"  src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
 
-[![Study](https://skillicons.dev/icons?i=java)](https://skillicons.dev) 
-<!-- [![Study](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
-[![Study](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
--->
+[![Study](https://skillicons.dev/icons?i=java,spring)](https://skillicons.dev) 
+
+<!-- <img src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" alt="Spring Boot" width="53" height="auto"> -->
+
+
+<!-- [![Study](https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png)](https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png) -->
+
 
 <h3> Tech Stack </h3> 
 
 [![Tools](https://skillicons.dev/icons?i=linux,vscode,idea,git,github,postgresql)](https://skillicons.dev)
 
-<!-- >
-
-[![Study](https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png)](https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png) 
--->
 
 <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" alt="NetBeans Logo" width="42" height="auto"> -->
 
 <br>
+
 <!-- contact into -->
 
-<h2 align="center"><img src="https://em-content.zobj.net/source/microsoft/309/ninja-cat_1f431-200d-1f464.png" alt="NetBeans Logo" width="30" height="auto">reach out to me <img src="https://em-content.zobj.net/source/microsoft/309/ninja-cat_1f431-200d-1f464.png" alt="NetBeans Logo" width="30" height="auto"> </h2>
+<h2 align="center"><img src="https://em-content.zobj.net/source/microsoft/309/ninja-cat_1f431-200d-1f464.png" alt="Ninja Cat" width="30" height="auto">reach out to me <img src="https://em-content.zobj.net/source/microsoft/309/ninja-cat_1f431-200d-1f464.png" alt="Ninja Cat" width="30" height="auto"> </h2>
 
 <br>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/laurisantinelli/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href = "mailto:ich.lauri@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" /></a>
-  <!--<a href="https://stackoverflow.com/users/22364605/"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>  --> 
 </div>
 
 ###
