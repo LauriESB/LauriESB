@@ -46,7 +46,7 @@
 
 <br>
 
-<h2 align="center"><img src="https://static.wikia.nocookie.net/terraria_gamepedia/images/d/df/Baby_Imp.png/revision/latest?cb=20200731173523&format=original" alt="Ninja Cat" width="30" height="auto"> reach out to me <img src="https://static.wikia.nocookie.net/terraria_gamepedia/images/d/df/Baby_Imp.png/revision/latest?cb=20200731173523&format=original" alt="baby imp" width="30" height="auto"> </h2>
+<h2 align="center"><img src="https://em-content.zobj.net/source/microsoft/309/ninja-cat_1f431-200d-1f464.png" alt="Ninja Cat" width="30" height="auto"> reach out to me <img src="https://em-content.zobj.net/source/microsoft/309/ninja-cat_1f431-200d-1f464.png" alt="ninja cat" width="30" height="auto"> </h2>
 
 <!--https://em-content.zobj.net/source/microsoft/309/ninja-cat_1f431-200d-1f464.png -->
 
