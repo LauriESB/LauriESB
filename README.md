@@ -25,6 +25,7 @@
 
 ## Studying in this moment
 
+<br>
 
  <img style="z-index:1;"  src="img/me-as-a-terraria-character.png" min-width="300px" max-width="250px" width="250px" align="right" alt="Computador iuriCode">
 
