@@ -25,9 +25,7 @@
 
 ## Studying in this moment
 
-
-
- <img style="z-index:1;"  src="img/me-as-a-terraria-character.png" width="200px" align="right" alt="Computador iuriCode">
+ <img style="z-index:1;"  src="img/me-as-a-terraria-character.png" width="400px" align="right" alt="Computador iuriCode">
 
 [![Study](https://skillicons.dev/icons?i=java,spring)](https://skillicons.dev) 
 
@@ -46,7 +44,7 @@
 
 <!-- contact into -->
 
-
+<br>
 
 <h2 align="center"><img src="https://em-content.zobj.net/source/microsoft/309/ninja-cat_1f431-200d-1f464.png" alt="Ninja Cat" width="30" height="auto">reach out to me <img src="https://em-content.zobj.net/source/microsoft/309/ninja-cat_1f431-200d-1f464.png" alt="Ninja Cat" width="30" height="auto"> </h2>
 
