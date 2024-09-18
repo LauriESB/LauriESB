@@ -25,7 +25,7 @@
 
 ## Studying in this moment
 
- <img style="z-index:1;"  src="img/me-as-a-terraria-character.png" width="400px" align="right" alt="Computador iuriCode">
+ <img style="z-index:1;"  src="img/me-as-a-terraria-character.png" width="400px" align="right" alt="me as a terraria character">
 
 [![Study](https://skillicons.dev/icons?i=java,spring)](https://skillicons.dev) 
 
@@ -46,7 +46,9 @@
 
 <br>
 
-<h2 align="center"><img src="https://em-content.zobj.net/source/microsoft/309/ninja-cat_1f431-200d-1f464.png" alt="Ninja Cat" width="30" height="auto">reach out to me <img src="https://em-content.zobj.net/source/microsoft/309/ninja-cat_1f431-200d-1f464.png" alt="Ninja Cat" width="30" height="auto"> </h2>
+<h2 align="center"><img src="https://static.wikia.nocookie.net/terraria_gamepedia/images/d/df/Baby_Imp.png/revision/latest?cb=20200731173523&format=original" alt="Ninja Cat" width="30" height="auto"> reach out to me <img src="https://static.wikia.nocookie.net/terraria_gamepedia/images/d/df/Baby_Imp.png/revision/latest?cb=20200731173523&format=original" alt="baby imp" width="30" height="auto"> </h2>
+
+<!--https://em-content.zobj.net/source/microsoft/309/ninja-cat_1f431-200d-1f464.png -->
 
 <br>
 
