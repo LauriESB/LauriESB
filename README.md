@@ -25,7 +25,8 @@
 
 ## Studying in this moment
 
- <img src="img/me-as-a-terraria-character.png" width="250px" align="right" alt="me as a terraria character" >
+ <img src="img/me-as-a-terraria-character.png" width="250px" align="right" alt="me as a terraria character">
+ <br>
 
 <!-- <img style="z-index:1;"  src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode"> -->
 
