@@ -27,7 +27,7 @@
 
  <img style="z-index:1;"  src="img/me-as-a-terraria-character.png" width="400px" align="right" alt="me as a terraria character">
 
-[![Study](https://skillicons.dev/icons?i=java,spring)](https://skillicons.dev) 
+[![Study](https://skillicons.dev/icons?i=java,spring,terraform)](https://skillicons.dev) 
 
 <!-- <img src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" alt="Spring Boot" width="53" height="auto"> -->
 
